@@ -1,0 +1,24 @@
+Eager, LAZY
+CASCADE
+DB Transactions
+DB Locking
+Versioning
+Equals and hash code
+Spring beans - scopes and requirements
+service, repository, component
+bean injection
+immutable + collections
+not null, bean validation, NPE, optional
+REST design - return codes
+Exceptions - when and how
+Algorithm complexity
+
+
+performance:
+
+JPA entity mapping
+Project structure
+REST API design
+
+extra:
+api versioning
